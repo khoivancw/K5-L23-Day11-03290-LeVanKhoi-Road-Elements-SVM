@@ -3,7 +3,7 @@
 Họ tên: **Lê Văn Khởi**  
 Mã học viên: **2A202603290**  
 CVAT: **2.74.1** · Guideline: **Road v1.0**  
-Manifest: **revision 4**.
+Manifest: **revision 5**.
 
 ## 1. Kiểm project
 
@@ -29,10 +29,12 @@ Thời điểm export:
 | Task | Ảnh | lane | road_curb | crosswalk | drivable | traffic_light | traffic_sign | Tổng hình |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | front | 12 | 26 | 5 | 3 | 26 | 20 | 5 | 85 |
+| front-extra | 4 | 8 | 4 | 3 | 10 | 18 | 16 | 59 |
 | fisheye | 8 | 5 | 23 | 10 | 6 | 5 | 3 | 52 |
-| Tổng | 20 | 31 | 28 | 13 | 32 | 25 | 8 | 137 |
+| fisheye-extra | 4 | 0 | 4 | 4 | 4 | 0 | 0 | 12 |
+| Tổng | 28 | 39 | 36 | 20 | 46 | 43 | 24 | 208 |
 
-Có **80 tag**: front 48, fisheye 32. Không nộp ảnh thêm trong bộ này.
+Có **112 tag**: front 64 (16 ảnh × 4), fisheye 48 (12 ảnh × 4). Bộ nộp đầy đủ cả 28 ảnh (gồm 8 ảnh thêm front-extra A13–A16 và fisheye-extra B09–B12).
 
 ## 3. Bảng ca khó
 

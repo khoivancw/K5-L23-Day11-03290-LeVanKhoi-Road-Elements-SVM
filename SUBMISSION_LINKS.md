@@ -8,9 +8,9 @@ Học viên: **Lê Văn Khởi — 2A202603290**
 
 | File | Nội dung |
 | --- | --- |
-| levankhoi-front.zip | A01–A12, 85 hình, 48 tag |
-| levankhoi-fisheye.zip | B01–B08, 52 hình, 32 tag |
-| levankhoi-manifest.json | Revision 4, khớp hai ZIP hiện tại |
+| levankhoi-front.zip | A01–A16, 144 hình, 64 tag |
+| levankhoi-fisheye.zip | B01–B12, 64 hình, 48 tag |
+| levankhoi-manifest.json | Revision 5, khớp hai ZIP hiện tại |
 
 ## Báo cáo và phiếu QC
 
